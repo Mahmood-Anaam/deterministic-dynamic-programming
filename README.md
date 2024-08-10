@@ -10,11 +10,11 @@ This project explores solutions to the Shortest Path Problem (SPP) and the Trave
 ```markdown
 deterministic-dynamic-programming/
 │
-├── README.md                                      # overview and instructions
+├── README.md                                          # overview and instructions
 ├── Practical_Deterministic_Dynamic_Programming.ipynb  # Jupyter notebook for solving SPP and TSP with detailed explanations
-├── graph_shortest_path_problem.png                # Graphical representation of the Shortest Path Problem
-├── graph_traveling_salesperson_problem.png        # Graphical representation of the Traveling Salesperson Problem
-└── requirements.txt                               # Python dependencies
+├── graph_shortest_path_problem.png                    # Graphical representation of the Shortest Path Problem
+├── graph_traveling_salesperson_problem.png            # Graphical representation of the Traveling Salesperson Problem
+
 ```
 
 

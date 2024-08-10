@@ -5,12 +5,12 @@
 
 This project explores solutions to the Shortest Path Problem (SPP) and the Traveling Salesperson Problem (TSP) using deterministic dynamic programming. It involves finding the shortest path between cities with specified energy costs and determining the optimal sequence for visiting multiple cities in TSP scenarios.
 
-## Project Structure
+## Code Structure
 
 ```markdown
-your-repo-name/
+deterministic-dynamic-programming/
 │
-├── README.md                                      # Project overview and instructions
+├── README.md                                      # overview and instructions
 ├── Practical_Deterministic_Dynamic_Programming.ipynb  # Jupyter notebook for solving SPP and TSP with detailed explanations
 ├── graph_shortest_path_problem.png                # Graphical representation of the Shortest Path Problem
 ├── graph_traveling_salesperson_problem.png        # Graphical representation of the Traveling Salesperson Problem
